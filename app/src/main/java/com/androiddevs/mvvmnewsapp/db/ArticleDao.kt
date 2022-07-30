@@ -14,5 +14,5 @@ interface ArticleDao {
     fun selectAllArticles(): LiveData<List<Article>>
 
     @Delete
-    fun deleteArticle(article: Article)
+    suspend fun deleteArticle(article: Article)
 }

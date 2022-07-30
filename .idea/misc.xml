@@ -3,17 +3,34 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.18974820143884893" />
         <entry key="..\:/Users/hp/Documents/titi/Projet/MVVMNewsApp/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/hp/Documents/titi/Projet/MVVMNewsApp/app/src/main/res/layout/activity_news.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/hp/Documents/titi/Projet/MVVMNewsApp/app/src/main/res/layout/item_article_preview.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/hp/Documents/titi/Projet/MVVMNewsApp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.20416666666666666" />
+        <entry key="app/src/main/res/layout/activity_news.xml" value="0.15625" />
+        <entry key="app/src/main/res/layout/fragment_article.xml" value="0.19101104736328126" />
+        <entry key="app/src/main/res/layout/fragment_breaking_news.xml" value="0.15625" />
+        <entry key="app/src/main/res/layout/fragment_saved_news.xml" value="0.2604166666666667" />
+        <entry key="app/src/main/res/layout/fragment_search_news.xml" value="0.15625" />
+        <entry key="app/src/main/res/layout/item_article_preview.xml" value="0.15625" />
+        <entry key="app/src/main/res/layout/list_article.xml" value="0.15520833333333334" />
+        <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.15625" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1655" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.19101104736328126" />
+      </ProjectState>
+    </option>
   </component>
 </project>

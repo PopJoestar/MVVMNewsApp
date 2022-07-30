@@ -13,4 +13,5 @@ abstract  class BaseFragment(layoutRef: Int): Fragment(layoutRef) {
         super.onViewCreated(view, savedInstanceState)
         viewModel = (activity as NewsActivity).viewModel
     }
+
 }
